@@ -2,8 +2,10 @@
 
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 
+
 *{
 	font-family: "Noto Sans KR", sans-serif !important;
+	position: fixed;
 }
 body{
 	margin-left: 0;
